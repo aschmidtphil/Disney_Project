@@ -1,3 +1,15 @@
+# Disney+ Project
+
+This project was developed as part of a group collaboration. The goal was to analyze Disney+ data and build various Python scripts for insights.
+
+## Team Members:
+- Noah (Lead)
+- Alexander (This repository contains my individual work and solutions)
+- Other Contributors: Sergei
+
+While the repository reflects my individual branch and contributions, the overall project was a group effort. You can view the complete group project [here](https://github.com/m4stern0ah/da-python-disney-project-sleeping_beauty).
+
+
 # Disney Data Insights 
 
 I hear you want to put your skills to the test.
